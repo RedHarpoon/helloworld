@@ -12,8 +12,8 @@
 
 Discussing
 ----------
-- Author: RedHarpoon
-- email: You can Send me an email at 2638898760@qq.com
+- Author  : RedHarpoon
+- Email   : You can Send me an email at 2638898760@qq.com
 
 
 
