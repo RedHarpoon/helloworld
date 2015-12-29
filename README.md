@@ -1,10 +1,7 @@
-# Headers
 
-Setext-style:
+                       ![Alt text](http://www.qt86.com/cache/1451357676_797719.png)
 
-This is H1
-===========
-![Alt text](http://www.qt86.com/cache/1451357676_797719.png)
+[![Build Status](https://travis-ci.org/meolu/walle-web.svg?branch=master)](https://travis-ci.org/meolu/walle-web)
 This is H2
 --
 ###### 这是 H6
