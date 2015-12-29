@@ -10,10 +10,10 @@
 **RHImagePicker** is an all-in-one camera solution for your iOS app. It let's your users select images from the library and take pictures at the same time.
 
 
-****
-##　　　　　　　　　　Author:RedHarpoon
-##　　　　　　　　 E-mail:2638898760@qq.com
-
+Discussing
+----------
+- Author: RedHarpoon
+- email: You can Send me an email at 2638898760@qq.com
 
 
 
