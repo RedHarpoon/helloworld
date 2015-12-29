@@ -1,5 +1,5 @@
 
-![Alt text](http://www.qt86.com/cache/1451358544_356962.png)
+![Alt text](http://www.qt86.com/cache/1451358820_234462.png)
 
 [![Build Status](https://travis-ci.org/meolu/walle-web.svg?branch=master)](https://travis-ci.org/meolu/walle-web)
 [![Platform](https://img.shields.io/cocoapods/p/ImagePicker.svg?style=flat)](http://cocoadocs.org/docsets/ImagePicker)
