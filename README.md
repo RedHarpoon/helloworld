@@ -7,7 +7,7 @@
 ## Description
 
 
-*RHImagePicker* is an all-in-one camera solution for your iOS app. It let's your users select images from the library and take pictures at the same time.
+**RHImagePicker** is an all-in-one camera solution for your iOS app. It let's your users select images from the library and take pictures at the same time.
 
 
 
